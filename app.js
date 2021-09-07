@@ -15,3 +15,4 @@ module.exports = class MathService{
         }
     }
 }
+404 page not found
